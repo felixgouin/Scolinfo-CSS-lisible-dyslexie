@@ -2,17 +2,13 @@ body {
 	font-family: trebuchet MS;
 }
 
-.alt 
-{
-   font-weight: bold;
+.alt {
+	font-weight: bold;
 }
 
-p
-{
-    font-size: 20px;
+p {
+	font-size: 20px;
 }
 
-.actu-court
-{
+.actu-court {
 	font-size: 18px
-}
