@@ -1,1 +1,1 @@
-# Scolinfo-CSS-lissible-dyslexie
+# Scolinfo-CSS-lisible-dyslexie
